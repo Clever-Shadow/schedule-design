@@ -1,0 +1,91 @@
+body{
+    font-family: Comic Sans MS;
+}
+.Date {
+    display: inline-block;
+    height: 160px;
+    background: #F5F5F5;
+    border: 3px solid black;
+    border-radius: 25px;
+    margin-top: 15px;
+    margin-bottom: 35px;
+}
+.Time{
+    display: inline-block;
+    height: 400px;
+    width: 180px;
+    background: #FFFFF0;
+    border: 3px solid black;
+    border-radius: 25px;
+}
+.Type{
+    display: inline-block;
+    height:100%;
+    width: 19%;
+    font-size:30px;
+    background: #E6E6FA;
+    border: 3px solid black;
+    border-radius: 25px;
+    text-align:center;
+    vertical-align: middle;
+    margin-left:3px;
+}
+.Name{
+    display: inline-block;
+    height:100%;
+    width: 60%;
+    font-size:25px;
+    background: #E6E6FA;
+    border: 3px solid black;
+    border-radius: 25px;
+    text-align:center;
+    vertical-align: middle;
+}
+.Place{
+    display: inline-block;
+    height:100%;
+    width: 18%;
+    font-size:30px;
+    background: #FFFFF0;
+    border: 3px solid black;
+    border-radius: 25px;
+    text-align:center;
+    vertical-align: middle;
+}
+
+.NotTime{
+    display: inline-block;
+    text-align:center;
+}
+.CommonBlock{
+    height:400px;
+    display: inline-block;
+    text-align:center;
+}
+.check{
+    height: 400px;
+    width:100%;
+    display: inline-block;
+    width:100%;
+    margin-bottom:50px;
+}
+.test{
+    display: inline-block;
+    height: 80px;
+    width: 180px;
+}
+.test2 {
+    display: inline-block;
+    height: 80px;
+    background: #F5F5F5;
+    font-size: 50px;
+}
+.test3{
+    border: 3px solid black;
+    border-radius: 25px;
+}
+.test4{
+    display: inline-block;
+    text-align:center;
+    margin-top:5px;
+}
